@@ -17,3 +17,5 @@ git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
 ```
 npm install hexo-deployer-git --save
 ```
+
+3. git push之前本地repo里用git log命令查看commit记录上的个人邮箱是否正确，否则Github没有记录Contributions
